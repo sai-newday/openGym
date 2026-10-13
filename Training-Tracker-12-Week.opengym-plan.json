@@ -1,0 +1,723 @@
+{
+  "opengym_plan": 1,
+  "exported": "2026-10-13",
+  "name": "5-Day Upper-Biased Recomposition (12 weeks)",
+  "unit": "kg",
+  "week": {
+    "1": [
+      "upper-a"
+    ],
+    "3": [
+      "upper-b"
+    ],
+    "5": [
+      "lower-a"
+    ],
+    "6": [
+      "upper-c"
+    ],
+    "0": [
+      "lower-b"
+    ]
+  },
+  "routines": [
+    {
+      "id": "upper-a",
+      "name": "Upper A",
+      "emoji": "💪",
+      "ex": [
+        {
+          "id": "3905",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Each direction."
+        },
+        {
+          "id": "1503",
+          "sets": 1,
+          "reps": 15,
+          "note": "WARM-UP. Shoulder health, light band."
+        },
+        {
+          "id": "8052",
+          "sets": 1,
+          "reps": 8,
+          "note": "WARM-UP. Thoracic opener.",
+          "side": true
+        },
+        {
+          "id": "5055",
+          "sets": 1,
+          "mode": "time",
+          "sec": 20,
+          "note": "WARM-UP. Dead hang from the bar."
+        },
+        {
+          "id": "0314",
+          "sets": 4,
+          "reps": 8,
+          "repsMin": 6,
+          "prog": "double",
+          "restSec": 150,
+          "note": "RIR 2. Tempo 3-0-1. Bench notch 1-2; elbows 45°; stop level with chest."
+        },
+        {
+          "id": "0652",
+          "sets": 4,
+          "reps": 8,
+          "repsMin": 5,
+          "prog": "double",
+          "restSec": 150,
+          "note": "RIR 2. Dead-hang start; elbows to ribs; chest to bar. 8+ clean = add a DB. Assist/BW."
+        },
+        {
+          "id": "0861",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 90,
+          "note": "RIR 2. Tempo 2-1-2. Chest tall; no lean past vertical; 1s squeeze."
+        },
+        {
+          "id": "0576",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 90,
+          "note": "RIR 2. Handles at nipple line. Last 2 reps should be a real fight."
+        },
+        {
+          "id": "0192",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 12,
+          "prog": "double",
+          "restSec": 45,
+          "side": true,
+          "sg": "A",
+          "note": "RIR 1. Per arm, LEFT FIRST. Low pin behind you; lead with the elbow; stop at shoulder height."
+        },
+        {
+          "id": "5609",
+          "sets": 3,
+          "reps": 20,
+          "repsMin": 15,
+          "prog": "double",
+          "restSec": 45,
+          "sg": "A",
+          "note": "RIR 1. Rope. Eye height; pull to forehead; knuckles finish facing behind you."
+        },
+        {
+          "id": "0447",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 8,
+          "prog": "double",
+          "restSec": 60,
+          "sg": "B",
+          "note": "RIR 1. Elbows pinned to ribs; no swing; 3s lowering."
+        },
+        {
+          "id": "0175",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 12,
+          "prog": "double",
+          "restSec": 60,
+          "sg": "B",
+          "note": "RIR 1. Kneel facing away; hips fixed; curl ribs to pelvis, not a hinge."
+        },
+        {
+          "id": "7553",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Chest."
+        },
+        {
+          "id": "1801",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Lats.",
+          "side": true
+        },
+        {
+          "id": "1793",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Rear delts.",
+          "side": true
+        },
+        {
+          "id": "1480",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Biceps."
+        }
+      ]
+    },
+    {
+      "id": "upper-b",
+      "name": "Upper B",
+      "emoji": "🏋️",
+      "ex": [
+        {
+          "id": "3905",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Each direction."
+        },
+        {
+          "id": "1503",
+          "sets": 1,
+          "reps": 15,
+          "note": "WARM-UP. Light band."
+        },
+        {
+          "id": "4580",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Spine mobility."
+        },
+        {
+          "id": "5055",
+          "sets": 1,
+          "mode": "time",
+          "sec": 20,
+          "note": "WARM-UP. Dead hang from the bar."
+        },
+        {
+          "id": "9698",
+          "sets": 4,
+          "reps": 10,
+          "repsMin": 8,
+          "prog": "double",
+          "restSec": 120,
+          "note": "RIR 2. Bench 30-45°; let scapulae stretch forward; row to your back pockets."
+        },
+        {
+          "id": "0405",
+          "sets": 4,
+          "reps": 10,
+          "repsMin": 6,
+          "prog": "double",
+          "restSec": 120,
+          "note": "RIR 2. Tempo 3-0-1. Back 80-85°; DBs to ear level; no shrugging."
+        },
+        {
+          "id": "2291",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 90,
+          "note": "RIR 2. Grip 1.5x shoulder; elbows down and OUT; to collarbone; 3s eccentric."
+        },
+        {
+          "id": "0251",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 8,
+          "prog": "double",
+          "restSec": 90,
+          "note": "RIR 2. Assist/BW. Slight forward lean for chest; stop at upper arms parallel to floor."
+        },
+        {
+          "id": "0292",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 75,
+          "side": true,
+          "note": "RIR 2. Per arm, LEFT FIRST. Knee and hand on bench; pull to hip; no torso rotation."
+        },
+        {
+          "id": "0178",
+          "sets": 3,
+          "reps": 20,
+          "repsMin": 15,
+          "prog": "double",
+          "restSec": 45,
+          "sg": "A",
+          "note": "RIR 1. Cable/machine. Last 5 reps must burn."
+        },
+        {
+          "id": "0194",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 45,
+          "sg": "A",
+          "note": "RIR 1. Rope. Elbows narrow and forward; full stretch behind head; spread at lockout."
+        },
+        {
+          "id": "1202",
+          "sets": 3,
+          "reps": 10,
+          "restSec": 45,
+          "side": true,
+          "note": "RIR 1. Per side, LEFT FIRST. Side-on; press straight out; resist rotation; 2s hold."
+        },
+        {
+          "id": "1801",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Lats.",
+          "side": true
+        },
+        {
+          "id": "1793",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Rear delts.",
+          "side": true
+        },
+        {
+          "id": "0643",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Triceps.",
+          "side": true
+        },
+        {
+          "id": "0945",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Back and lats."
+        }
+      ]
+    },
+    {
+      "id": "lower-a",
+      "name": "Lower A",
+      "emoji": "🦵",
+      "ex": [
+        {
+          "id": "3502",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Each leg.",
+          "side": true
+        },
+        {
+          "id": "4630",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Each leg.",
+          "side": true
+        },
+        {
+          "id": "4633",
+          "sets": 1,
+          "reps": 6,
+          "note": "WARM-UP. Alternating."
+        },
+        {
+          "id": "3561",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Glute activation."
+        },
+        {
+          "id": "0043",
+          "sets": 4,
+          "reps": 8,
+          "repsMin": 5,
+          "prog": "double",
+          "restSec": 180,
+          "note": "RIR 2. Tempo 3-0-X. Bar on rear delts; brace at belt line; just below parallel."
+        },
+        {
+          "id": "2290",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "prog": "double",
+          "restSec": 90,
+          "side": true,
+          "note": "RIR 2. Per leg, LEFT LEADS; right matches reps. Shin vertical; torso 15° forward."
+        },
+        {
+          "id": "2267",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 90,
+          "note": "RIR 2. Feet mid-platform, shoulder width; stop before hips tuck; no hard lockout."
+        },
+        {
+          "id": "0599",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 75,
+          "note": "RIR 1. Tempo 2-1-3. Pad tight; toes pulled to shins; control the 3s return."
+        },
+        {
+          "id": "0605",
+          "sets": 4,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 60,
+          "note": "RIR 1. 2s pause stretched at bottom; full extension at top; no bouncing."
+        },
+        {
+          "id": "9819",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 60,
+          "note": "RIR 1. Curl pelvis toward ribs at top. Swinging legs = hip flexors only."
+        },
+        {
+          "id": "1059",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Quads.",
+          "side": true
+        },
+        {
+          "id": "0789",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Hamstrings.",
+          "side": true
+        },
+        {
+          "id": "1949",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Hip flexors.",
+          "side": true
+        },
+        {
+          "id": "1398",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Calves.",
+          "side": true
+        },
+        {
+          "id": "1056",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Glutes.",
+          "side": true
+        }
+      ]
+    },
+    {
+      "id": "upper-c",
+      "name": "Upper C",
+      "emoji": "🔥",
+      "ex": [
+        {
+          "id": "3905",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Each direction."
+        },
+        {
+          "id": "1503",
+          "sets": 1,
+          "reps": 15,
+          "note": "WARM-UP. Light band."
+        },
+        {
+          "id": "1428",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Wrists, before the curls."
+        },
+        {
+          "id": "5055",
+          "sets": 1,
+          "mode": "time",
+          "sec": 20,
+          "note": "WARM-UP. Dead hang from the bar."
+        },
+        {
+          "id": "1326",
+          "sets": 4,
+          "reps": 10,
+          "repsMin": 6,
+          "prog": "double",
+          "restSec": 120,
+          "note": "RIR 1. Assist/BW. Shoulder-width underhand; elbows down into ribs; 3s eccentric every rep."
+        },
+        {
+          "id": "7583",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 75,
+          "note": "RIR 1. Lean back 10-15°; pull to sternum; 1s squeeze."
+        },
+        {
+          "id": "0334",
+          "sets": 4,
+          "reps": 20,
+          "repsMin": 12,
+          "prog": "double",
+          "restSec": 45,
+          "sg": "A",
+          "note": "RIR 0-1. LAST SET = drop set: failure, drop 40%, failure again."
+        },
+        {
+          "id": "0238",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 12,
+          "prog": "double",
+          "restSec": 45,
+          "sg": "A",
+          "note": "RIR 1. Fixed slight elbow bend; sweep to thighs; feel lats not triceps."
+        },
+        {
+          "id": "0318",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 45,
+          "side": true,
+          "sg": "B",
+          "note": "RIR 1. Per arm, LEFT FIRST; right matches. Let the arm hang fully behind the torso."
+        },
+        {
+          "id": "0200",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 12,
+          "prog": "double",
+          "restSec": 45,
+          "sg": "B",
+          "note": "RIR 1. Rope. Elbows locked at ribs; spread the rope; 1s hold at the bottom."
+        },
+        {
+          "id": "0313",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "prog": "double",
+          "restSec": 45,
+          "sg": "C",
+          "note": "RIR 0-1. Neutral grip; no swing. Builds brachialis."
+        },
+        {
+          "id": "1030",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 12,
+          "prog": "double",
+          "restSec": 45,
+          "sg": "C",
+          "note": "RIR 1. Machine chest press / pec deck. 2s squeeze at peak contraction."
+        },
+        {
+          "id": "0318",
+          "sets": 1,
+          "reps": 1,
+          "note": "EXTRA LEFT-ONLY, to failure (RIR 0). Weekly asymmetry-correction dose."
+        },
+        {
+          "id": "0313",
+          "sets": 1,
+          "reps": 1,
+          "note": "EXTRA LEFT-ONLY, to failure (RIR 0). Weekly asymmetry-correction dose."
+        },
+        {
+          "id": "0857",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 8,
+          "prog": "double",
+          "restSec": 60,
+          "note": "RIR 1. From knees; ribs down; only as far as the lower back stays flat."
+        },
+        {
+          "id": "0643",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Triceps.",
+          "side": true
+        },
+        {
+          "id": "1480",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Biceps."
+        },
+        {
+          "id": "6763",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Forearms."
+        },
+        {
+          "id": "1801",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Lats.",
+          "side": true
+        },
+        {
+          "id": "1482",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Abs."
+        }
+      ]
+    },
+    {
+      "id": "lower-b",
+      "name": "Lower B",
+      "emoji": "🍑",
+      "ex": [
+        {
+          "id": "4580",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Spine and hips."
+        },
+        {
+          "id": "3502",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Each leg.",
+          "side": true
+        },
+        {
+          "id": "3561",
+          "sets": 1,
+          "reps": 10,
+          "note": "WARM-UP. Glute activation."
+        },
+        {
+          "id": "4633",
+          "sets": 1,
+          "reps": 6,
+          "note": "WARM-UP. Alternating."
+        },
+        {
+          "id": "0085",
+          "sets": 4,
+          "reps": 8,
+          "repsMin": 6,
+          "prog": "double",
+          "restSec": 150,
+          "note": "RIR 2. USE STRAPS. Tempo 4-0-1. Bar scrapes thighs; hips back to hamstring stretch, then STOP. Trim session if flat."
+        },
+        {
+          "id": "1060",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 8,
+          "prog": "double",
+          "restSec": 90,
+          "note": "RIR 2. Bench under scapulae; chin tucked; 1s squeeze; ribs down, no lumbar arch."
+        },
+        {
+          "id": "4295",
+          "sets": 3,
+          "reps": 10,
+          "restSec": 90,
+          "side": true,
+          "note": "RIR 2. Per leg, LEFT LEADS; right matches. Walking/reverse lunge; long stride; upright torso."
+        },
+        {
+          "id": "0585",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 12,
+          "prog": "double",
+          "restSec": 60,
+          "note": "RIR 1. 1s hold at lockout; 3s lowering; toes pointed slightly out."
+        },
+        {
+          "id": "0594",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 12,
+          "prog": "double",
+          "restSec": 45,
+          "note": "RIR 1. Deep stretch at the bottom; 1s pause."
+        },
+        {
+          "id": "2910",
+          "sets": 3,
+          "reps": 30,
+          "restSec": 60,
+          "side": true,
+          "note": "30 m per side, LEFT FIRST. Shoulders level; do NOT lean away from the load."
+        },
+        {
+          "id": "0789",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Hamstrings.",
+          "side": true
+        },
+        {
+          "id": "1056",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Glutes.",
+          "side": true
+        },
+        {
+          "id": "1949",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Hip flexors.",
+          "side": true
+        },
+        {
+          "id": "4512",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Adductors."
+        },
+        {
+          "id": "1398",
+          "sets": 1,
+          "mode": "time",
+          "sec": 30,
+          "note": "COOL-DOWN STRETCH. Calves.",
+          "side": true
+        }
+      ]
+    }
+  ],
+  "customEx": []
+}
